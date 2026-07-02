@@ -1,0 +1,8 @@
+# バックアップ
+backup/
+
+# Pythonキャッシュ
+__pycache__/
+
+# Windows
+Thumbs.db
